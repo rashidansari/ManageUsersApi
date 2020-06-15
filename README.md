@@ -1,8 +1,7 @@
 # ManageUsersApi
 
 To run the API, execute the following command in root dir of the project in sequance.
-1. dotnet build .
-2. docker-compose up --build 
+docker-compose up -d
 
 
 Sample URL to Test:
