@@ -1,7 +1,7 @@
 # ManageUsersApi
 
-To run the API, execute the following command in root dir of the project in sequance.
-docker-compose up -d
+To run the API, execute the following command in root dir of the project in sequance.<br/>
+<b>docker-compose up -d</b>
 
 
 Sample URL to Test:
